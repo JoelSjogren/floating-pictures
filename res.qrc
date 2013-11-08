@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pixmaps">
+        <file>fractal_alpha.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>remove.svg</file>
+        <file>add.svg</file>
+        <file>right.svg</file>
+        <file>left.svg</file>
+        <file>export.svg</file>
+    </qresource>
+</RCC>
