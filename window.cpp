@@ -9,7 +9,7 @@ Window::Window(QWidget *parent) :
     ui(new Ui::Window)
 {
     ui->setupUi(this);
-    setWindowTitle("Lazy eye 0.1");
+    setWindowTitle("floating-pictures");
     ui->graphicsView->setScene(&scene);
     ui->graphicsView->setSceneRect(-10, 10, 20, 20);
     forms[0] = ui->form1;

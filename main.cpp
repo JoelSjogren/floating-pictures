@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    QCoreApplication::setApplicationName("Lazy eye trainer");
+    QCoreApplication::setApplicationName("floating-pictures");
     //QCoreApplication::setOrganizationName("");
     Window w;
     w.show();
